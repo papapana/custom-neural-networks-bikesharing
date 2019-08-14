@@ -7,6 +7,8 @@ This repository is based on the Udacity project to predict bike-sharing ridershi
 ## Installation
 
 ```bash
+git clone https://github.com/papapana/custom-neural-networks-bikesharing.git
+cd custom-neural-networks-bikesharing
 pip install -r requirements.txt
 ```
 
