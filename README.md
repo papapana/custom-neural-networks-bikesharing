@@ -14,4 +14,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-The project itself is implemented in a Jupyter notebook in the file `Predicting_bike_sharing_data.ipynb`
+The project itself is implemented in a Jupyter notebook in the file `Predicting_bike_sharing_data.ipynb`.
+To execute the Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
